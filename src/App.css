@@ -1,0 +1,33 @@
+
+.forgot-password, .forgot-password a {
+  text-align: right;
+  font-size: 13px;
+  padding-top: 10px;
+  color: #7f7d7d;
+  margin: 0;
+}
+
+.forgot-password a {
+  color: #167bff;
+}
+.outer .form-control:focus {
+  border-color: #167bff;
+  box-shadow: none;
+}
+
+
+.custom-control-label {
+  font-weight: 400;
+}
+
+.login{
+  width: 488px;
+  margin-left: 378px;
+}
+
+.signup{
+  width:488px;
+  margin-left: 378px;
+}
+
+

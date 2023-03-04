@@ -1,0 +1,35 @@
+.explore-body{
+    background-color: #343a40;
+  }
+  
+  .column{
+    margin-left:96px;
+  }
+  
+  .title{
+    color: white;
+  }
+  .image{
+    height: 230px;
+  }
+  
+  .cimage{
+    margin-top: 101px;
+    width: 203px;
+    height: 155px;
+  }
+  
+  .dsimage{
+    margin-top: 200px;
+    width:203px;
+    height: 155px;
+  }
+  
+  .card{
+    margin-bottom: 37px;
+  }
+
+  .imagepython,.imagejava,.imageDatas,.imageclan,.imageai,.imageang{
+    width:290px;
+    height: 155px;
+  }
